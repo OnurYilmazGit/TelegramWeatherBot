@@ -4,10 +4,11 @@ It is a multifunctional chatbot that can answer daily questions such as: Weather
 Link to try: ​https://t.me/FullFunctional_bot
 
 Used;
-➔ Google Dialog Flow to provide engaging voice and text-based speech interfaced and also deployment our Node JS code.
-➔ NodeJS to implement APIes on cloud server.
-➔ Google Maps API and OpenWeather.com API
-➔ Google Firebase to upload our different functions and start 7/24 available server. Then we
+
+* Google Dialog Flow to provide engaging voice and text-based speech interfaced and also deployment our Node JS code.
+* NodeJS to implement APIes on cloud server.
+* Google Maps API and OpenWeather.com API
+* Google Firebase to upload our different functions and start 7/24 available server. Then we
 combined Google Firewall and Google DialogFlow.
 
 
