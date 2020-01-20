@@ -3,7 +3,7 @@ It is a multifunctional chatbot that can answer daily questions such as: Weather
 
 Link to try: ​https://t.me/FullFunctional_bot
 
-Used;
+Utilized:
 
 * Google Dialog Flow to provide engaging voice and text-based speech interfaced and also deployment our Node JS code.
 * NodeJS to implement APIes on cloud server.
